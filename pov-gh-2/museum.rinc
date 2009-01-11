@@ -1,0 +1,31 @@
+
+
+// 6,5,0
+box {
+	<6, 0, 5>
+	<7, 1, 6>
+
+	pigment { color Violet }
+}
+
+	
+
+// 6,4,0
+box {
+	<6, 0, 4>
+	<7, 1, 5>
+
+	pigment { color Violet }
+}
+
+	
+
+// 6,3,0
+box {
+	<6, 0, 3>
+	<7, 1, 4>
+
+	pigment { color Violet }
+}
+
+	

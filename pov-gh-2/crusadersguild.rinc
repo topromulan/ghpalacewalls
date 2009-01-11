@@ -1,0 +1,31 @@
+
+
+// 10,4,0
+box {
+	<10, 0, 4>
+	<11, 1, 5>
+
+	pigment { color Violet }
+}
+
+	
+
+// 9,4,0
+box {
+	<9, 0, 4>
+	<10, 1, 5>
+
+	pigment { color Violet }
+}
+
+	
+
+// 9,5,0
+box {
+	<9, 0, 5>
+	<10, 1, 6>
+
+	pigment { color Violet }
+}
+
+	

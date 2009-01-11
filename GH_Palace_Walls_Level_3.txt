@@ -1,0 +1,88 @@
+ GH Palace Walls Level 3
+
+
+
+
+(2,1,2) 
+A very large and very ornate palace squarely faces a mighty plush lawn that lies below. 
+Its main defense walls rise to about this height, separate the area from a wide and clean street to the south, and form a kind of alley around the west side of the palace to the north.
+
+(4,1,2) 
+A mighty large and mighty ornate palace squarely faces a very plush lawn that lies down below. 
+Its main defense walls rise to about this height and separate the area from a wide and clean street to the south, and to the north form a sort of corridor around the east side of the palace.
+
+(2,2,2) Over Princess' Balcony
+
+(4,2,2) Over Queen's Balcony
+
+
+(1,1,2) SW Corner
+A quite large and quite ornate palace stands at the center of a darned plush lawn fronted by three large walls.
+The south and west palace defense walls intersect here. 
+A large statue is just barely visible over their tops to the southwest, at a major intersection of a wide and clean east-west street and a well maintained north-south road.
+Across the road, a place of worship has been constructed.
+Across the street, the tops of tall green trees rise in a range about as wide as the lawn.
+
+(5,1,2) SE Corner
+A darned large and darned ornate palace stands at the center of a quite plush lawn fronted by three large walls.
+The south and east palace defense walls intersect here. 
+Along and across the road, the good part of town sports some important city businesses and a hospital.
+Across the street, the tops of tall green trees rise in a range about as wide as the lawn.
+
+
+(5,2,2) E Wall
+A most large and most ornate palace stands at the center of a really plush lawn fronted by three large walls.
+Directly to the west is the top of a large archway.
+A turfy corridor down below runs north between the palace and the east wall up until a large building.
+The smell of hot paper rises from the back of an office across the wall.
+
+(5,3,2) E Wall
+An awfully large, awfully ornate palace forms a corridor here against the east defense wall.
+The strip of grass down at the bottom looks just as cushy soft as can be.
+Over the wall, and parallel with it, the top of an historic-looking large building extends north.
+At the north end, a public venue juxtaposes right onto this royal lay.
+Not too far down south over another wall rise the tops of an array of evergreens.
+
+
+(5,4,2) E Wall
+A very large and very ornate palace forms a corridor here against the east defense wall.
+Two tough, but clear, looking windows on the Palace arch above two level panes, forming two gumdrop shaped view ports in to or out of the Palace just toward the north and south side.
+So centered, outside the walls, an historic-looking large building extends along it.
+The strip of grass down at the bottom looks as soft as can be, and the view extends from a civilian building to the north south over another wall to the tops of a few evergreens.
+
+(5,5,2) E Wall
+The very large and very ornate palace and its east defense wall juxtapose right here against a two story civilian business structure.
+Across the road, past that structure stands the city wall, and then fields and forests far off into the distance.
+Over the palace defense wall, an historic-looking large building begins a line of important-looking businesses all along it it to the south.
+Quite a ways south over another wall rise the tops of a few evergreens.
+
+(1,5,2) End of West Wall
+The northwest corner of the Palace points towards the end of the west defense wall, which is separated from the large military establishment to the north.
+At the very top corner of the wall, a shield-shaped plaque directs an enlarged iron fist's index finger straight towards the establishment.
+
+
+(1,4,2) FACING WEST
+T
+The view extends across from the palace, over the wall to the west. past the church, past the city, into depths of forest.
+
+
+(1,3,2) 
+
+A fairly large and remarkable palace and its western defense wall form an alley running from a military establishment to the north on down past the front of the palace.
+The palace watches over all Grimhaven, right across its wall from the church.
+A well-maintained street seperates the two, visible past the gate to the palace's side entrance to the north.
+Straight below, the alley floor is green, level, and lush as can be.
+
+(1,2,2) W Wall
+A really large and really ornate palace stands at the center of a most plush lawn, fronted by three large walls.
+Directly to the east is the top of a large archway.
+A grassy alley down below runs north between the palace and the west wall up until a large military establishment.
+Across the road, a large church rises several stories into the sky.
+
+
+
+
+
+
+
+

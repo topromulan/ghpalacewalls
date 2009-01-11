@@ -1,0 +1,211 @@
+
+
+// -5,-8,0
+box {
+	<-5, 0, -8>
+	<-4, 1, -7>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-8,1
+box {
+	<-5, 1, -8>
+	<-4, 2, -7>
+
+	pigment { color Gold }
+}
+
+	
+
+// -4,-8,1
+box {
+	<-4, 1, -8>
+	<-3, 2, -7>
+
+	pigment { color Gold }
+}
+
+	
+
+// -4,-7,1
+box {
+	<-4, 1, -7>
+	<-3, 2, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,1
+box {
+	<-5, 1, -7>
+	<-4, 2, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,2
+box {
+	<-5, 2, -7>
+	<-4, 3, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,3
+box {
+	<-5, 3, -7>
+	<-4, 4, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,4
+box {
+	<-5, 4, -7>
+	<-4, 5, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,5
+box {
+	<-5, 5, -7>
+	<-4, 6, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,6
+box {
+	<-5, 6, -7>
+	<-4, 7, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,7
+box {
+	<-5, 7, -7>
+	<-4, 8, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,8
+box {
+	<-5, 8, -7>
+	<-4, 9, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -6,-8,8
+box {
+	<-6, 8, -8>
+	<-5, 9, -7>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-8,8
+box {
+	<-5, 8, -8>
+	<-4, 9, -7>
+
+	pigment { color Gold }
+}
+
+	
+
+// -4,-8,8
+box {
+	<-4, 8, -8>
+	<-3, 9, -7>
+
+	pigment { color Gold }
+}
+
+	
+
+// -4,-7,8
+box {
+	<-4, 8, -7>
+	<-3, 9, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -4,-6,8
+box {
+	<-4, 8, -6>
+	<-3, 9, -5>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-6,8
+box {
+	<-5, 8, -6>
+	<-4, 9, -5>
+
+	pigment { color Gold }
+}
+
+	
+
+// -6,-6,8
+box {
+	<-6, 8, -6>
+	<-5, 9, -5>
+
+	pigment { color Gold }
+}
+
+	
+
+// -6,-7,8
+box {
+	<-6, 8, -7>
+	<-5, 9, -6>
+
+	pigment { color Gold }
+}
+
+	
+
+// -5,-7,9
+box {
+	<-5, 9, -7>
+	<-4, 10, -6>
+
+	pigment { color Gold }
+}
+
+	

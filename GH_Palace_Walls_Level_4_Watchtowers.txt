@@ -1,0 +1,20 @@
+ GH Palace Walls Level 4 - Watchtowers
+
+(1,6,3)
+High above a warrior training yard, level with the watchtowers of Palace Grimhaven, the World unfolds down and out around.
+ The top of the city garrison is the most immediately down unfolding view just below and to the north, but other views extend beyond the city walls.
+ The Palace's northwest watchtower is just to the southeast from here.
+
+(2,6,3)
+
+
+(3,5,3) North Side
+
+
+
+(4,4,3) East Side
+
+(3,3,3) South Side
+
+(2,4,3) West Side
+ 

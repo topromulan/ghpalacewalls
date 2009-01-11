@@ -1,0 +1,15 @@
+sneezy=# d roomexit
+Table "public.roomexit"
+Column      |          Type          | Modifiers
+-----------------+------------------------+-----------
+vnum            | integer                | not null
+direction       | integer                | not null
+name            | character varying(127) | not null
+description     | text                   | not null
+type            | integer                | not null
+condition_flag  | integer                | not null
+lock_difficulty | integer                | not null
+weight          | integer                | not null
+key_num         | integer                | not null
+destination     | integer                | not null
+

@@ -1,0 +1,173 @@
+#sched weed1 2.2 goto 36730; edit name (3. 1. 0) faux front lawn
+#sched weed2 2.4 goto 36731; edit name (1. 4. 0) lawn
+#sched weed3 2.6 goto 36732; edit name (1. 3. 0) lawn
+#sched weed4 2.8 goto 36733; edit name (1. 2. 0) lawn
+#sched weed5 3.0 goto 36734; edit name (1. 1. 0) lawn
+#sched weed6 3.2 goto 36735; edit name (2. 6. 0) pipeweed
+#sched weed7 3.4 goto 36736; edit name (2. 2. 0) lawn
+#sched weed8 3.6 goto 36737; edit name (2. 1. 0) lawn
+#sched weed9 3.8 goto 36738; edit name (4. 2. 0) lawn
+#sched weed10 4.0 goto 36739; edit name (4. 1. 0) lawn
+#sched weed11 4.2 goto 36740; edit name (5. 5. 0) lawn
+#sched weed12 4.4 goto 36741; edit name (5. 4. 0) lawn
+#sched weed13 4.6 goto 36742; edit name (5. 3. 0) lawn
+#sched weed14 4.8 goto 36743; edit name (5. 2. 0) lawn
+#sched weed15 5.0 goto 36744; edit name (5. 1. 0) lawn
+#sched weed16 5.2 goto 36745; edit name (1. 6. 1) castle wall
+#sched weed17 5.4 goto 36746; edit name (1. 5. 1) castle wall
+#sched weed18 5.6 goto 36747; edit name (1. 4. 1) castle wall
+#sched weed19 5.8 goto 36748; edit name (1. 3. 1) castle wall
+#sched weed20 6.0 goto 36749; edit name (1. 2. 1) castle wall
+#sched weed21 6.2 goto 36750; edit name (2. 6. 1) castle wall
+#sched weed22 6.4 goto 36751; edit name (2. 2. 1) castle wall
+#sched weed23 6.6 goto 36752; edit name (3. 6. 1) castle wall
+#sched weed24 6.8 goto 36754; edit name (4. 6. 1) castle wall
+#sched weed25 7.0 goto 36755; edit name (4. 2. 1) castle wall
+#sched weed26 7.2 goto 36756; edit name (5. 6. 1) castle wall
+#sched weed27 7.4 goto 36757; edit name (5. 5. 1) castle wall
+#sched weed28 7.6 goto 36758; edit name (5. 4. 1) castle wall
+#sched weed29 7.8 goto 36759; edit name (5. 3. 1) castle wall
+#sched weed30 8.0 goto 36760; edit name (5. 2. 1) castle wall
+#sched weed31 8.2 goto 36761; edit name (1. 6. 2) castle wall
+#sched weed32 8.4 goto 36762; edit name (1. 5. 2) castle wall
+#sched weed33 8.6 goto 36763; edit name (1. 4. 2) castle wall
+#sched weed34 8.8 goto 36764; edit name (1. 3. 2) castle wall
+#sched weed35 9.0 goto 36765; edit name (1. 2. 2) castle wall
+#sched weed36 9.2 goto 36766; edit name (2. 6. 2) castle wall
+#sched weed37 9.4 goto 36767; edit name (2. 2. 2) castle wall
+#sched weed38 9.6 goto 36768; edit name (3. 6. 2) castle wall
+#sched weed39 9.8 goto 36769; edit name (3. 2. 2) castle wall
+#sched weed40 10.0 goto 36770; edit name (4. 6. 2) castle wall
+#sched weed41 10.2 goto 36771; edit name (4. 2. 2) castle wall
+#sched weed42 10.4 goto 36772; edit name (5. 6. 2) castle wall
+#sched weed43 10.6 goto 36773; edit name (5. 5. 2) castle wall
+#sched weed44 10.8 goto 36774; edit name (5. 4. 2) castle wall
+#sched weed45 11.0 goto 36775; edit name (5. 3. 2) castle wall
+#sched weed46 11.2 goto 36776; edit name (5. 2. 2) castle wall
+#sched weed47 11.4 goto 36777; edit name (1. 6. 3) climbing n.w. spire
+#sched weed48 11.6 goto 36778; edit name (1. 5. 3) climbing n.w. spire
+#sched weed49 11.8 goto 36779; edit name (1. 4. 3) midair
+#sched weed50 12.0 goto 36780; edit name (1. 3. 3) climbing s.w. spire
+#sched weed51 12.2 goto 36781; edit name (1. 2. 3) climbing s.w. spire
+#sched weed52 12.4 goto 36782; edit name (2. 6. 3) climbing n.w. spire
+#sched weed53 12.6 goto 36783; edit name (2. 2. 3) climbing s.w. spire
+#sched weed54 12.8 goto 36784; edit name (3. 6. 3) midair
+#sched weed55 13.0 goto 36785; edit name (3. 2. 3) midair
+#sched weed56 13.2 goto 36786; edit name (4. 6. 3) climbing n.e. spire
+#sched weed57 13.4 goto 36787; edit name (4. 2. 3) climging s.e. spire
+#sched weed58 13.6 goto 36788; edit name (5. 6. 3) climbing n.e. spire
+#sched weed59 13.8 goto 36789; edit name (5. 5. 3) climbing n.e. spire
+#sched weed60 14.0 goto 36790; edit name (5. 4. 3) midair
+#sched weed61 14.2 goto 36791; edit name (5. 3. 3) climging s.e. spire
+#sched weed62 14.4 goto 36792; edit name (5. 2. 3) climging s.e. spire
+#sched weed63 14.6 goto 36793; edit name (1. 6. 4) midair
+#sched weed64 14.8 goto 36794; edit name (1. 5. 4) midair
+#sched weed65 15.0 goto 36795; edit name (1. 4. 4) midair
+#sched weed66 15.2 goto 36796; edit name (1. 3. 4) midair
+#sched weed67 15.4 goto 36797; edit name (1. 2. 4) midair
+#sched weed68 15.6 goto 36798; edit name (2. 6. 4) midair
+#sched weed69 15.8 goto 36799; edit name (2. 4. 4) midair
+#sched weed70 16.0 goto 36800; edit name (2. 2. 4) midair
+#sched weed71 16.2 goto 36801; edit name (3. 6. 4) midair
+#sched weed72 16.4 goto 36802; edit name (3. 5. 4) midair
+#sched weed73 16.6 goto 36803; edit name (3. 3. 4) midair
+#sched weed74 16.8 goto 36804; edit name (3. 2. 4) midair
+#sched weed75 17.0 goto 36805; edit name (4. 6. 4) midair
+#sched weed76 17.2 goto 36806; edit name (4. 4. 4) midair
+#sched weed77 17.4 goto 36807; edit name (4. 2. 4) midair
+#sched weed78 17.6 goto 36808; edit name (5. 6. 4) midair
+#sched weed79 17.8 goto 36809; edit name (5. 5. 4) midair
+#sched weed80 18.0 goto 36810; edit name (5. 4. 4) midair
+#sched weed81 18.2 goto 36811; edit name (5. 3. 4) midair
+#sched weed82 18.4 goto 36812; edit name (5. 2. 4) midair
+#sched weed83 18.6 goto 36813; edit name (2. 5. 5) climbing main tower
+#sched weed84 18.8 goto 36814; edit name (2. 4. 5) climbing main tower
+#sched weed85 19.0 goto 36815; edit name (2. 3. 5) climbing main tower
+#sched weed86 19.2 goto 36816; edit name (3. 5. 5) climbing main tower
+#sched weed87 19.4 goto 36817; edit name (3. 3. 5) climbing main tower
+#sched weed88 19.6 goto 36818; edit name (4. 5. 5) climbing main tower
+#sched weed89 19.8 goto 36819; edit name (4. 4. 5) climbing main tower
+#sched weed90 20.0 goto 36820; edit name (4. 3. 5) climbing main tower
+#sched weed91 20.2 goto 36821; edit name (2. 5. 6) climbing main tower
+#sched weed92 20.4 goto 36822; edit name (2. 4. 6) climbing main tower
+#sched weed93 20.6 goto 36823; edit name (2. 3. 6) climbing main tower
+#sched weed94 20.8 goto 36824; edit name (3. 5. 6) climbing main tower
+#sched weed95 21.0 goto 36825; edit name (3. 3. 6) climbing main tower
+#sched weed96 21.2 goto 36826; edit name (4. 5. 6) climbing main tower
+#sched weed97 21.4 goto 36827; edit name (4. 4. 6) climbing main tower
+#sched weed98 21.6 goto 36828; edit name (4. 3. 6) climbing main tower
+#sched weed99 21.8 goto 36829; edit name (2. 5. 1) rear balconies
+#sched weed100 22.0 goto 36830; edit name (2. 3. 1) front balconies
+#sched weed101 22.2 goto 36831; edit name (3. 2. 1) on castle entrance
+#sched weed102 22.4 goto 36832; edit name (2. 4. 3) on the roof
+#sched weed103 22.6 goto 36833; edit name (3. 5. 3) on the roof
+#sched weed104 22.8 goto 36834; edit name (3. 3. 3) on the roof
+#sched weed105 23.0 goto 36835; edit name (4. 4. 3) on the roof
+#sched weed106 23.2 goto 36836; edit name (2. 5. 4) on n.w. spire
+#sched weed107 23.4 goto 36837; edit name (2. 3. 4) on s.w. spire
+#sched weed108 23.6 goto 36838; edit name (4. 5. 4) on n.e. spire
+#sched weed109 23.8 goto 36839; edit name (4. 3. 4) on s.e. spire
+#sched weed110 24.0 goto 36840; edit name (3. 4. 6) tippie top
+#sched weed111 24.2 goto 36868; edit name (5. 1. 6) mid-air
+#sched weed112 24.4 goto 36869; edit name (5. 2. 6) mid-air
+#sched weed113 24.6 goto 36870; edit name (5. 3. 6) mid-air
+#sched weed114 24.8 goto 36871; edit name (5. 4. 6) mid-air
+#sched weed115 25.0 goto 36872; edit name (5. 5. 6) mid-air
+#sched weed116 25.2 goto 36873; edit name (5. 6. 6) mid-air
+#sched weed117 25.4 goto 36874; edit name (4. 1. 6) mid-air
+#sched weed118 25.6 goto 36875; edit name (4. 2. 6) mid-air
+#sched weed119 25.8 goto 36876; edit name (4. 6. 6) mid-air
+#sched weed120 26.0 goto 36877; edit name (3. 1. 6) mid-air
+#sched weed121 26.2 goto 36878; edit name (3. 2. 6) mid-air
+#sched weed122 26.4 goto 36879; edit name (3. 6. 6) mid-air
+#sched weed123 26.6 goto 36880; edit name (2. 1. 6) mid-air
+#sched weed124 26.8 goto 36881; edit name (2. 2. 6) mid-air
+#sched weed125 27.0 goto 36882; edit name (2. 6. 6) mid-air
+#sched weed126 27.2 goto 36883; edit name (1. 1. 6) mid-air
+#sched weed127 27.4 goto 36884; edit name (1. 2. 6) mid-air
+#sched weed128 27.6 goto 36885; edit name (1. 3. 6) mid-air
+#sched weed129 27.8 goto 36886; edit name (1. 4. 6) mid-air
+#sched weed130 28.0 goto 36887; edit name (1. 5. 6) mid-air
+#sched weed131 28.2 goto 36888; edit name (1. 6. 6) mid-air
+#sched weed132 28.4 goto 36889; edit name (5. 1. 5) mid-air
+#sched weed133 28.6 goto 36890; edit name (5. 2. 5) mid-air
+#sched weed134 28.8 goto 36891; edit name (5. 3. 5) mid-air
+#sched weed135 29.0 goto 36892; edit name (5. 4. 5) mid-air
+#sched weed136 29.2 goto 36893; edit name (5. 5. 5) mid-air
+#sched weed137 29.4 goto 36894; edit name (5. 6. 5) mid-air
+#sched weed138 29.6 goto 36895; edit name (4. 1. 5) mid-air
+#sched weed139 29.8 goto 36896; edit name (4. 2. 5) mid-air
+#sched weed140 30.0 goto 36897; edit name (4. 6. 5) mid-air
+#sched weed141 30.2 goto 36898; edit name (3. 1. 5) mid-air
+#sched weed142 30.4 goto 36899; edit name (3. 2. 5) mid-air
+#sched weed143 30.6 goto 36900; edit name (3. 6. 5) mid-air
+#sched weed144 30.8 goto 36901; edit name (2. 1. 5) mid-air
+#sched weed145 31.0 goto 36902; edit name (2. 2. 5) mid-air
+#sched weed146 31.2 goto 36903; edit name (2. 6. 5) mid-air
+#sched weed147 31.4 goto 36904; edit name (1. 1. 5) mid-air
+#sched weed148 31.6 goto 36905; edit name (1. 2. 5) mid-air
+#sched weed149 31.8 goto 36906; edit name (1. 3. 5) mid-air
+#sched weed150 32.0 goto 36907; edit name (1. 4. 5) mid-air
+#sched weed151 32.2 goto 36908; edit name (1. 5. 5) mid-air
+#sched weed152 32.4 goto 36909; edit name (1. 6. 5) mid-air
+#sched weed153 32.6 goto 36910; edit name (5. 1. 4) mid-air
+#sched weed154 32.8 goto 36911; edit name (4. 1. 4) mid-air
+#sched weed155 33.0 goto 36912; edit name (3. 1. 4) mid-air
+#sched weed156 33.2 goto 36913; edit name (2. 1. 4) mid-air
+#sched weed157 33.4 goto 36914; edit name (1. 1. 4) mid-air
+#sched weed158 33.6 goto 36915; edit name (5. 1. 3) mid-air
+#sched weed159 33.8 goto 36916; edit name (4. 1. 3) mid-air
+#sched weed160 34.0 goto 36917; edit name (3. 1. 3) mid-air
+#sched weed161 34.2 goto 36918; edit name (2. 1. 3) mid-air
+#sched weed162 34.4 goto 36919; edit name (1. 1. 3) mid-air
+#sched weed163 34.6 goto 36920; edit name (5. 1. 2) mid-air
+#sched weed164 34.8 goto 36921; edit name (4. 1. 2) mid-air
+#sched weed165 35.0 goto 36922; edit name (3. 1. 2) mid-air
+#sched weed166 35.2 goto 36923; edit name (2. 1. 2) mid-air
+#sched weed167 35.4 goto 36924; edit name (1. 1. 2) mid-air
+#sched weed168 35.6 goto 36925; edit name (5. 1. 1) mid-air
+#sched weed169 35.8 goto 36926; edit name (4. 1. 1) mid-air
+#sched weed170 36.0 goto 36927; edit name (3. 1. 1) mid-air
+#sched weed171 36.2 goto 36928; edit name (2. 1. 1) mid-air
+#sched weed172 36.4 goto 36929; edit name (1. 1. 1) mid-air
+FINIS

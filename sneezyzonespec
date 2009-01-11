@@ -1,0 +1,28 @@
+R:62 > read note
+There is something written upon it:
+
+sneezy=# d room
+Table "public.room"
+Column    |          Type          | Modifiers
+-------------+------------------------+-----------
+vnum        | integer                | not null
+x           | integer                | not null
+y           | integer                | not null
+z           | integer                | not null
+name        | character varying(127) | not null
+description | text                   | not null
+zone        | integer                | not null
+room_flag   | integer                | not null
+sector      | integer                | not null
+teletime    | integer                | not null
+teletarg    | integer                | not null
+telelook    | integer                | not null
+river_speed | integer                | not null
+river_dir   | integer                | not null
+capacity    | integer                | not null
+height      | integer                | not null
+Indexes: room_pkey primary key btree (vnum)
+sneezy=#
+
+R:62 >
+
