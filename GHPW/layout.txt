@@ -1,0 +1,69 @@
+
+ground floor 14
+
+BOXBB      035                 B = barracks
+XXXXO                  036
+OXXXO  037             038
+OXXXO  039             040
+OOXOO  041 042     043 044
+OOXOO  045 046     047 048
+
+floor 1 21
+
+OOOOB  049 050 051 052 
+O?XXO  054 055         056    put nw/se 52<-->56
+OXXXO  057             058
+O?XXO  059 060         061
+OOOOO  062 063 064 065 066
+OOOOO  
+
+floor 2 19
+
+OOOOO  067 068 069 070 071
+OXXXO  072             073
+OXXXO  074             075
+OXXXO  076             077
+OOOOO  078 079 080 081 082
+OOOOO
+
+floor 3 (towers)  26
+
+OOOOO  083 084 085 086 087 
+OXOXO  088     089     090
+OOXOO  091 092     093 094
+OXOXO  095     096     097
+OOOOO  098 099 100 101 102
+OOOOO
+
+floor 4 (tower)  35
+
+OOOOO
+OOOOO
+OOXOO
+OOOOO
+OOOOO
+OOOOO
+
+floor 5 (tower)  35
+
+OOOOO
+OOOOO
+OOXOO
+OOOOO
+OOOOO
+OOOOO
+
+floor 6 (nothing)  36
+
+?????   (30) (5 maybe)
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+
+
+
+
+
+

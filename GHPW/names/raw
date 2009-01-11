@@ -1,0 +1,173 @@
+36730	3	1	0	faux front lawn
+36731	1	4	0	lawn
+36732	1	3	0	lawn
+36733	1	2	0	lawn
+36734	1	1	0	lawn
+36735	2	6	0	pipeweed
+36736	2	2	0	lawn
+36737	2	1	0	lawn
+36738	4	2	0	lawn
+36739	4	1	0	lawn
+36740	5	5	0	lawn
+36741	5	4	0	lawn
+36742	5	3	0	lawn
+36743	5	2	0	lawn
+36744	5	1	0	lawn
+36745	1	6	1	castle wall
+36746	1	5	1	castle wall
+36747	1	4	1	castle wall
+36748	1	3	1	castle wall
+36749	1	2	1	castle wall
+36750	2	6	1	castle wall
+36751	2	2	1	castle wall
+36752	3	6	1	castle wall
+36754	4	6	1	castle wall
+36755	4	2	1	castle wall
+36756	5	6	1	castle wall
+36757	5	5	1	castle wall
+36758	5	4	1	castle wall
+36759	5	3	1	castle wall
+36760	5	2	1	castle wall
+36761	1	6	2	castle wall
+36762	1	5	2	castle wall
+36763	1	4	2	castle wall
+36764	1	3	2	castle wall
+36765	1	2	2	castle wall
+36766	2	6	2	castle wall
+36767	2	2	2	castle wall
+36768	3	6	2	castle wall
+36769	3	2	2	castle wall
+36770	4	6	2	castle wall
+36771	4	2	2	castle wall
+36772	5	6	2	castle wall
+36773	5	5	2	castle wall
+36774	5	4	2	castle wall
+36775	5	3	2	castle wall
+36776	5	2	2	castle wall
+36777	1	6	3	climbing n.w. spire
+36778	1	5	3	climbing n.w. spire
+36779	1	4	3	midair
+36780	1	3	3	climbing s.w. spire
+36781	1	2	3	climbing s.w. spire
+36782	2	6	3	climbing n.w. spire
+36783	2	2	3	climbing s.w. spire
+36784	3	6	3	midair
+36785	3	2	3	midair
+36786	4	6	3	climbing n.e. spire
+36787	4	2	3	climging s.e. spire
+36788	5	6	3	climbing n.e. spire
+36789	5	5	3	climbing n.e. spire
+36790	5	4	3	midair
+36791	5	3	3	climging s.e. spire
+36792	5	2	3	climging s.e. spire
+36793	1	6	4	midair
+36794	1	5	4	midair
+36795	1	4	4	midair
+36796	1	3	4	midair
+36797	1	2	4	midair
+36798	2	6	4	midair
+36799	2	4	4	midair
+36800	2	2	4	midair
+36801	3	6	4	midair
+36802	3	5	4	midair
+36803	3	3	4	midair
+36804	3	2	4	midair
+36805	4	6	4	midair
+36806	4	4	4	midair
+36807	4	2	4	midair
+36808	5	6	4	midair
+36809	5	5	4	midair
+36810	5	4	4	midair
+36811	5	3	4	midair
+36812	5	2	4	midair
+36813	2	5	5	climbing main tower
+36814	2	4	5	climbing main tower
+36815	2	3	5	climbing main tower
+36816	3	5	5	climbing main tower
+36817	3	3	5	climbing main tower
+36818	4	5	5	climbing main tower
+36819	4	4	5	climbing main tower
+36820	4	3	5	climbing main tower
+36821	2	5	6	climbing main tower
+36822	2	4	6	climbing main tower
+36823	2	3	6	climbing main tower
+36824	3	5	6	climbing main tower
+36825	3	3	6	climbing main tower
+36826	4	5	6	climbing main tower
+36827	4	4	6	climbing main tower
+36828	4	3	6	climbing main tower
+36829	2	5	1	rear balconies
+36830	2	3	1	front balconies
+36831	3	2	1	on castle entrance
+36832	2	4	3	on the roof
+36833	3	5	3	on the roof
+36834	3	3	3	on the roof
+36835	4	4	3	on the roof
+36836	2	5	4	on n.w. spire
+36837	2	3	4	on s.w. spire
+36838	4	5	4	on n.e. spire
+36839	4	3	4	on s.e. spire
+36840	3	4	6	tippie top
+36868	5	1	6	mid-air
+36869	5	2	6	mid-air
+36870	5	3	6	mid-air
+36871	5	4	6	mid-air
+36872	5	5	6	mid-air
+36873	5	6	6	mid-air
+36874	4	1	6	mid-air
+36875	4	2	6	mid-air
+36876	4	6	6	mid-air
+36877	3	1	6	mid-air
+36878	3	2	6	mid-air
+36879	3	6	6	mid-air
+36880	2	1	6	mid-air
+36881	2	2	6	mid-air
+36882	2	6	6	mid-air
+36883	1	1	6	mid-air
+36884	1	2	6	mid-air
+36885	1	3	6	mid-air
+36886	1	4	6	mid-air
+36887	1	5	6	mid-air
+36888	1	6	6	mid-air
+36889	5	1	5	mid-air
+36890	5	2	5	mid-air
+36891	5	3	5	mid-air
+36892	5	4	5	mid-air
+36893	5	5	5	mid-air
+36894	5	6	5	mid-air
+36895	4	1	5	mid-air
+36896	4	2	5	mid-air
+36897	4	6	5	mid-air
+36898	3	1	5	mid-air
+36899	3	2	5	mid-air
+36900	3	6	5	mid-air
+36901	2	1	5	mid-air
+36902	2	2	5	mid-air
+36903	2	6	5	mid-air
+36904	1	1	5	mid-air
+36905	1	2	5	mid-air
+36906	1	3	5	mid-air
+36907	1	4	5	mid-air
+36908	1	5	5	mid-air
+36909	1	6	5	mid-air
+36910	5	1	4	mid-air
+36911	4	1	4	mid-air
+36912	3	1	4	mid-air
+36913	2	1	4	mid-air
+36914	1	1	4	mid-air
+36915	5	1	3	mid-air
+36916	4	1	3	mid-air
+36917	3	1	3	mid-air
+36918	2	1	3	mid-air
+36919	1	1	3	mid-air
+36920	5	1	2	mid-air
+36921	4	1	2	mid-air
+36922	3	1	2	mid-air
+36923	2	1	2	mid-air
+36924	1	1	2	mid-air
+36925	5	1	1	mid-air
+36926	4	1	1	mid-air
+36927	3	1	1	mid-air
+36928	2	1	1	mid-air
+36929	1	1	1	mid-air
+

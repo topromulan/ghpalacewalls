@@ -1,0 +1,156 @@
+ GH Palace Walls Level 2
+
+
+
+(3,1,1) Above Front Lawn
+An absolutely smashingly large and surreally ornate palace squarely faces a dastardly daring green lawn lying down below. 
+The altitude here and the distance from the palace affords the perfect cherry view of the large and undeniably impressive residence.
+Before the residence to the north, just below here, a large archway stands before the grand front door.
+The main defense walls rise to about this height on all sides, and the southerly one stands here blocking off a wide and clean street.
+Above all, the palace spires twist away into the sky.
+
+(2,1,1) 
+A capitally ornate and very impressively large palace squarely faces an absolutely smashingly plush lawn that lies below. 
+Its main defense walls rise to about this height, and separate the area from a wide, clean street to the south. 
+Then the one forms a kind of alley around past the west side of the palace.
+
+(4,1,1) 
+An very impressively ornate, and capitally large palace squarely faces an absolutely smashingly very plush lawn that lies below. 
+Its main defense walls rise to about this height and separate the area from a wide and clean street to the south, and to the north form a sort of corridor around the east side of the palace.
+
+
+(2,2,1) Princess' Balcony
+This alcove has got to be the quietest little nook along the vicinity of North Main Street and East King's Way, the notoriously rough-and-tumble courses through city Grimhaven which it overlooks. 
+The Princess, or someone appointed by the Princess, has seen to the coordination and arrangement of many flora with flowers akin to the specs of sunlight off an iced tea. 
+Some of the hedging and the ivy across the gap to the Palace Walls have been sculpted and pruned into concave baffles.
+The holy cross atop the church across the street looks like a scaled-down miniature version of the Grimhaven Casino, visible high above and aways to the south of it.
+** l baffles = 
+
+** l cross = 
+
+
+
+(4,2,1) Queen's Balcony
+
+
+
+(2,3,1) Princess' Room Extension
+She emanates from all corners of her origins here, her room. 
+
+The Princess of Grimhaven will have none but the finest products of modern living. 
+
+She is consistently one of the prettiest maidens to appear in all the lands, and the Royal Guard............
+
+--
+A horizontal sign is mounted over the archway.
+
+** l sign = NO FAUNA ALLOWED 
+
+
+(2,5,1) Prince's Room Extension
+
+
+(1,1,1) SW Corner
+A very large and very ornate palace stands at the center of a plush lawn fronted by three large walls.
+The south and west palace defense walls intersect here. 
+A large statue is just barely visible over their tops to the southwest, at a major intersection of a wide and clean east-west street and a well maintained north-south road.
+Across the road, a place of worship has been constructed.
+Across the street, the tops of tall green trees rise in a range about as wide as the lawn.
+
+(5,1,1) SE Corner
+A very large and very ornate palace stands at the center of a plush lawn fronted by three large walls.
+The south and east palace defense walls intersect here. 
+Along and across the road, the good part of town sports some important city businesses and a hospital.
+Across the street, the tops of tall green trees rise in a range about as wide as the lawn.
+
+
+(5,2,1) E Wall
+A very large and very ornate palace stands at the center of a plush lawn fronted by three large walls.
+Directly to the west is the top of a large archway.
+A turfy corridor down below runs north between the palace and the east wall up until a large building.
+The smell of hot paper rises from the back of an office across the wall.
+
+(5,3,1) E Wall
+A very large and very ornate palace forms a corridor here against the east defense wall.
+The strip of grass down at the bottom looks as soft as can be.
+Over the wall, and parallel with it, the top of an historic-looking large building extends north.
+At the north end, a public venue juxtaposes right onto this royal lay.
+Not too far down south over another wall rise the tops of an array of evergreens.
+
+(5,4,1) E Wall
+A very large and very ornate palace forms a corridor here against the east defense wall.
+The strip of grass down at the bottom looks as soft as can be.
+At the north end of the corridor, some public venue juxtaposes right onto the royal lay.
+Over the wall, and parallel with it, the top of an historic-looking large building extends north and south.
+A ways south over another wall rise the tops of a few evergreens.
+
+(5,5,1) E Wall
+The very large and very ornate palace and its east defense wall juxtapose right here against a two story civilian structure.
+Across the road past that structure stands the city wall, and then fields and forests off into the distance.
+Over the palace defense wall, an historic-looking large building begins a line of important-looking businesses all along it it to the south.
+Quite a ways south over another wall rise the tops of a few evergreens.
+
+(1,4,1) End of West Wall
+On the top north corner of the western defense wall, an enlarged iron hand with an extended index finger is mounted against a large shield-shaped plaque.
+The gap formed between the wall and a large military establishment to the north affords a walkway meeting the regal-looking back entry of the palace.
+
+(1,3,1) W Wall
+A very large and very ornate palace and its western defense wall form an alley running from a military establishment to the north on down past the front of the palace.
+The wall runs along a well-maintained street, across which there is a large church.
+Straight below, the alley floor is green, level, and lush.
+
+(1,2,1) W Wall
+A very large and very ornate palace stands at the center of a plush lawn fronted by three large walls.
+Directly to the east is the top of a large archway.
+A grassy alley down below runs north between the palace and the west wall up until a large military establishment.
+Across the road, a large church rises several stories into the sky.
+
+
+(1,5,1) Above the Walkway
+
+
+
+
+(1,6,1) Above the Training Yard
+
+
+
+
+
+(2,6,1) Prince's Balcony
+This balcony is fairly bare, with just one chair and a smoking table facing off the west side down toward the warrior training yard.
+No canopy protects this balcony from the rain, but it is fairly sheltered from the wind by the back of the City Garrison and a recent-looking north extension to the Palace.
+
+
+(4,6,1) The King's Royal Smoking Balcony
+
+
+
+---
+** l picture = A nearly lifelike portrait of the King of Grimhaven and Herman Adder shaking hands over an important-looking real estate document.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

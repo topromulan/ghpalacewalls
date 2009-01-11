@@ -1,0 +1,14 @@
+messaging initialization
+# -2 # log init
+# -2 # sneezy init
+# -2 # lp::ntc init
+# -2 # lp::scs init
+# -2 # lp::csv init
+# -2 # lp init
+# -2 # kp init
+# -2 # bih init
+# -2 #The bih() explorer! init
+# -2 # turtle_key init
+# -2 # turtle_processor init
+# -2 # cmdlineargs init
+TurtleShell version 0.9¹²³

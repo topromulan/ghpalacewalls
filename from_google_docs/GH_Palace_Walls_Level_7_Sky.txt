@@ -1,0 +1,160 @@
+ GH Palace Walls Level 7 - Sky
+
+(1,6,6)
+ People far, far below on North Main Street seem smaller than stratian berries.
+You're higher here than Palace Grimhaven is tall, taller than anything in the land across all horizons except the Grimhaven Casino.
+
+
+(2,6,6)
+ This is really high above the palace and the garrison and everything.
+ Far below, training warriors look small and puny.
+ The stoic nature of the view to the north is so compelling:
+ After the city garrison, outside the city, far to the north past some carefree flecks of water lies a distant stadium where the very earth appears to be shaking.
+ 
+(3,6,6)
+ Looking directly south and down across the top of the palace aligns with a distant 
+
+
+(4,6,6)
+Wow, what a great view of Old Grimhaven!
+ Look out below, there's places to eat, drink, be merry, train as a warrior, and across the walls to the north there are the fields where the food grows.
+This view is from high in the sky, even higher than the palace is tall!
+
+
+(5,6,6)
+ Here is some open air above and northeast of Palace Grimhaven.
+Depending on the wind, a sweet scent might be caught from the kitchen of a restaurant way down below. 
+This place is far enough from the town dump that all the air smells good and sweet, just like when you're adventuring outside the city walls.
+Soft-looking green grass is such a long ways down below, that landing might be an issue.
+ 
+
+(1,5,6)
+ You're in charge of the whole northwest quadrant of Grimhaven up here. 
+You control the horizontal and the vertical movements, and the financial transactions of all the citizens.
+It is plain where they go to church, where they get their knives sharpened, and where they get their shoes repaired.
+You are God.
+ 
+(2,5,6)
+
+(3,5,6)
+
+
+(4,5,6)
+
+
+(5,5,6)
+
+
+
+(1,4,6)
+ 
+
+
+(2,4,6)
+
+
+
+(3,4,6) 
+Boundless views limited only by perception and weather conditions range 
+
+
+(4,4,6)
+ The tip top of the Palace is almost within an arm's reach of here.
+ If the transition from thin air to the tip of a palace appeals to you, then west is a natural choice.
+Otherwise, it's up to nature how long you can defy her until she pulls you down and eats you up on the cement roof of the palace below.
+
+
+(5,4,6)
+ 
+Only palaces are normally this tall, but here you are. 
+You are about as tall as this one, give or take a head, standing this high.
+ It's a long ways down.
+ But it's there, way down there.
+The World.
+
+
+(1,3,6)
+ This is high above Grimhaven, high above the palace lawn.
+ Only palaces are normally this tall, but here you are and a palace. 
+It's a long ways down and anyone who wants to do so safely has got some figuring to do.
+There's a church across the road, whether that helps or not.
+ 
+(2,3,6)
+ The top of the Palace is just within arm's reach from here.
+ You've got to hand it to the next guy, because when else can you hand the top of a palace to any guy!
+ 
+
+(3,3,6)
+ The top tower of Palace Grimhaven is just outside of an arm's reach of here.
+ Take the cup and go on top of the tower or take the fall way down below.
+ 
+(4,3,6)
+ The tip top of the Palace is almost within an arm's reach of here.
+It's about as far as from the edge to the center of a standard carousel.
+ 
+
+(5,3,6)
+ 
+Only palaces are normally this tall, but here you are. 
+It's a long ways down.
+ 
+
+(1,2,6)
+ 
+The summit of modern living crests here, just a ways from the top of Palace Grimhaven.
+ Only palaces are normally this tall, but here you are. 
+It's a long ways down.
+ 
+(2,2,6)
+ This is the best view of the city church, the orphanage, and the city park that could be possible.
+
+
+(3,2,6)
+ 
+
+(4,2,6)
+ This is a great view of the city of Grimhaven!
+From far below on the Queen's balcony of the palace, her thoughts must rise to this height.
+ 
+
+(5,2,6)
+ 
+Only palaces are normally this tall, but here you are. 
+It's a long ways down.
+ 
+
+(1,1,6)
+This is the southwest edge of the Royal Family's private airspace, far above the palace walls.
+A virtual beeline between the tip top of Palace Grimhaven and the tip top of the Grimhaven Casino would pass directly through you here.
+ So beware bees with money.
+You can see the bald spot in Prince Theoman's statue in Center Square far below.
+ It's a long ways down.
+ 
+(2,1,6)
+ 
+In the old days they saved heights like these hidden away for only the most powerful wizards and birds, but today here they are. 
+And it's a long ways down.
+ 
+(3,1,6)
+ 
+Heights to this extent are normally reserved for the tops of palaces, but today an exception has been made for you. 
+It's a dastardly darn long ways down.
+ 
+(4,1,6)
+ 
+Only palaces are normally this tall, but an adventurer right here measures up just every bit as tall. 
+Those adventurers with noses had better have a handkerchief ready in case of a nosebleed. 
+Here's a long, long ways up.
+ 
+(5,1,6)
+ This is the top southeast corner of the Royal Family's private airspace.
+
+Whatever adventurers got eyes better look out and hope for a safe landing.
+ It's such a long ways down.
+ 
+
+
+
+
+
+

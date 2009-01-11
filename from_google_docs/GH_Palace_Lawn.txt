@@ -1,0 +1,80 @@
+ GH Palace Lawn
+
+
+(1,1,0) SW CORNER 
+Inside the intersection of the high southern and western defense walls, plush lawn unrolls awayward every which way but over the flower beds.  
+Across the lawn, the walls and spires of the palace rise gigantically higher.
+ 
+(1,2,0)
+A well-groomed corridor of lawn extends in both directions between the palace walls and the western external defense wall.
+ 
+(1,3,0)
+A well-groomed corridor of lawn extends in both directions between the palace walls and the western external defense wall.
+ 
+(1,4,0)
+Just south of a walkway between the North Main Street and a side entry into the palace, a well-groomed corridor of lawn extends along south between the palace walls and the wester external defense wall.
+ 
+(2,1,0) WEST SIDE OF WALKWAY - the PART
+Here, just west of the Palace's main front gate, there is a part in the lawn running from the southern defense wall north towards the palace, almost parallel to the entrance walkway and alongside the entrance archway to the northeast.  
+The turf has been groomed west and east on the respective sides of the part, and the underlying rich brown soil is just visible down at the base of the part.
+The nice flat lawn extends all around the palace.  
+
+ 
+ 
+(2,2,0) WEST SIDE OF ENTRANCE ARCHWAY / A nook
+The nice flat lawn terminates at a pair of the Queen's flowerbeds set at right angles here in the west nook formed by the front of the palace against the side of the main entry archway.  
+A part in the lawn runs right into the flowerbed by the wall.  
+*A leprechaun in a green beret 
+
+ 
+ 
+(4,2,0) EAST SIDE OF ENTRANCE ARCHWAY
+A nice flat lawn terminates in a pair of the Queen's flowerbeds here in the east nook formed by the front of the palace against the side of the main entry archway. 
+
+ 
+ 
+(4,1,0) EAST SIDE OF WALKWAY
+This nice flat lawn appears to run all around the palace.  
+Meticulously tended flowerbeds fluorish around the side of the archway.
+ 
+(5,1,0) Corner Pocket
+
+Plush lawn rushes at you from all sides into the intersection of the high eastern and southern defense walls.
+Proudly from above the town, the palace looks gigantically down upon you.
+** A swimming Pool
+
+
+(5,2,0) 
+
+A plush spread of lawn heads east towards a high wall.  
+A palace heads high into the sky.
+ 
+ 
+(5,3,0) Croquet Court
+
+Smooth, plush lawn flows from the south along the edge of the palace and the wall, progressively more dissheveled here to the north.
+** A Convertable awning
+
+
+ 
+(5,4,0) Hoop Shot
+
+The back corner of the plush green lawn becomes a jumble in the nexxus of the palace, a high defense wall, and the back of a city business.
+Croquet equipment is all over the place.
+
+
+ 
+ 
+(5,5,0) ALONG E WALL BEHIND museum / adder's
+ 
+
+(2,6,0) Pipeweed Patch
+
+
+
+
+
+
+
+
+

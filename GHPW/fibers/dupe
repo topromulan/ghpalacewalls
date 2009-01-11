@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo will copy base.bpm to pms/$1.pm and vi that file
+echo hit [enter] to proceed
+read
+
+cp base.pm pms/$1.pm
+vi pms/$1.pm
+

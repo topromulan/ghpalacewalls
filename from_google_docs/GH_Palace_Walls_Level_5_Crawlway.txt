@@ -1,0 +1,79 @@
+ GH Palace Walls Level 5 - Crawlway 
+
+(1,6,4)
+
+
+(1,5,4)
+ 
+
+
+(1,4,4)
+ 
+(1,3,4)
+ 
+(1,2,4)
+ 
+(1,1,4)
+ 
+
+
+(2,6,4)
+
+(3,6,4)
+ 
+(4,6,4)
+ 
+(5,6,4)
+ 
+
+(5,5,4)
+
+(5,4,4)
+ 
+(5,3,4)
+ 
+(5,2,4)
+ 
+(5,1,4)
+ 
+
+(4,2,4)
+ 
+(4,1,4)
+ 
+(3,2,4)
+ 
+(3,1,4)
+ 
+(2,2,4)
+ 
+(2,1,4)
+ 
+(1,2,4)
+ 
+(1,1,4)
+ 
+
+(3,5,4) Palace roof between the watchtowers
+Twin turrets crest to the east and west, and to the south into the sky a spire rises higher. 
+This is the roof of the Palace of Grimhaven. 
+The shingles are made of all kinds of materials of all colors and textures.
+
+(4,4,4) Palace roof between the watchtowers
+The highest spire crests to the west, but twin turrets look out to the north and south. 
+This is the roof of the Palace of Grimhaven. 
+The shingles are made out of all kinds of materials of all colors and textures.
+
+(3,3,4) Palace roof front and center
+This perch is front and center up on the Palace of Grimhaven.
+The shingles are all made of all kinds of materials of all colors and textures.
+From this height, the main entrance to the Palace, and the front lawn, gardens, and entrance archway all look like a dollhouse.
+ 
+
+(2,4,4) Palace roof between the watchtowers
+
+This is the roof of the Palace of Grimhaven. 
+The shingles are made of all kinds of materials of all colors and textures.
+ 
+
+

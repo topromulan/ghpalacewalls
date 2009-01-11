@@ -1,0 +1,12 @@
+
+Turtle Shell Testing Copy
+
+to execute and test the very fibers which make up
+this copy of the sneezymud perl telnet turtleshell,
+
+1 $ tar jxf ts-[numbers].tar.bzip2
+2 $ cd ts-[numbers]
+3 $ perl veryfibers.pl
+
+You are probably already done with step 2, almost there!
+

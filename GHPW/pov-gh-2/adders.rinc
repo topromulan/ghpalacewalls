@@ -1,0 +1,138 @@
+
+
+// 5,9,0
+box {
+	<5, 0, 9>
+	<6, 1, 10>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 6,8,0
+box {
+	<6, 0, 8>
+	<7, 1, 9>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 6,7,0
+box {
+	<6, 0, 7>
+	<7, 1, 8>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 5,7,0
+box {
+	<5, 0, 7>
+	<6, 1, 8>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 5,8,0
+box {
+	<5, 0, 8>
+	<6, 1, 9>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 6,6,0
+box {
+	<6, 0, 6>
+	<7, 1, 7>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 5,6,0
+box {
+	<5, 0, 6>
+	<6, 1, 7>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 4,6,0
+box {
+	<4, 0, 6>
+	<5, 1, 7>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 6,6,1
+box {
+	<6, 1, 6>
+	<7, 2, 7>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 5,6,1
+box {
+	<5, 1, 6>
+	<6, 2, 7>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 5,7,1
+box {
+	<5, 1, 7>
+	<6, 2, 8>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 5,8,1
+box {
+	<5, 1, 8>
+	<6, 2, 9>
+
+	pigment { color Yellow }
+}
+
+	
+
+// 6,8,1
+box {
+	<6, 1, 8>
+	<7, 2, 9>
+
+	pigment { color Yellow }
+}
+
+box {
+	<6, 1, 7>
+	<7, 2, 8>
+
+	pigment { color Cyan }
+}
+
+	

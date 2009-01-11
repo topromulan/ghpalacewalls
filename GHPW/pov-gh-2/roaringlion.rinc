@@ -1,0 +1,41 @@
+
+
+// -1,-1,0
+box {
+	<-1, 0, -1>
+	<0, 1, 0>
+
+	pigment { color Violet }
+}
+
+	
+
+// -2,-1,0
+box {
+	<-2, 0, -1>
+	<-1, 1, 0>
+
+	pigment { color Violet }
+}
+
+	
+
+// -2,-2,0
+box {
+	<-2, 0, -2>
+	<-1, 1, -1>
+
+	pigment { color Violet }
+}
+
+	
+
+// -1,-2,0
+box {
+	<-1, 0, -2>
+	<0, 1, -1>
+
+	pigment { color Violet }
+}
+
+	
